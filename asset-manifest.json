@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/emptycup_hackathon/static/css/main.7c4bda78.css",
-    "main.js": "/emptycup_hackathon/static/js/main.0844cec1.js",
+    "main.js": "/emptycup_hackathon/static/js/main.7f27d023.js",
     "static/js/787.f900dac4.chunk.js": "/emptycup_hackathon/static/js/787.f900dac4.chunk.js",
     "index.html": "/emptycup_hackathon/index.html",
     "main.7c4bda78.css.map": "/emptycup_hackathon/static/css/main.7c4bda78.css.map",
-    "main.0844cec1.js.map": "/emptycup_hackathon/static/js/main.0844cec1.js.map",
+    "main.7f27d023.js.map": "/emptycup_hackathon/static/js/main.7f27d023.js.map",
     "787.f900dac4.chunk.js.map": "/emptycup_hackathon/static/js/787.f900dac4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c4bda78.css",
-    "static/js/main.0844cec1.js"
+    "static/js/main.7f27d023.js"
   ]
 }
