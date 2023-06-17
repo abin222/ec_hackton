@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import firebase from "../firebase";
 import { Link, useNavigate } from "react-router-dom";
 import Button from "react-bootstrap/Button";
-import Form from "react-bootstrap/Form";
 import Container from "react-bootstrap/Container";
 import Navbar from "react-bootstrap/Navbar";
 import { ToastContainer, toast } from "react-toastify";
